@@ -62,7 +62,7 @@ Begge filene bruker UTF-8.
 Ofte nok at f.eks PyCharm peker mot .dic fila.
 
 <p align="center">
-  <img src="img/pycharm-settings.png" alt="PyCharm settings" width="700">
+  <img src="img/pycharm-settings.png" alt="PyCharm settings" width="800">
 </p>
 
 ## Hva er Hunspell?
