@@ -2,13 +2,13 @@
 
 En norsk Bokmål Hunspell-ordliste utvidet med moderne fagterminologi innen utvikling, IT, informatikk, nettverk, cybersikkerhet, DevOps, databaser og kunstig intelligens og mer. Kan brukes overalt av applikasjoner som bruker Hunspell-formatet.
 
-Målet var rett og slett å ha en norsk ordliste for å skrive kommentarer i koden når jeg brukte JetBrains sine editorer.
-Ble lei av å se de grønne stavekontroll-linjene.
+## Hvorfor?
+
+Målet var rett og slett å ha en norsk ordliste for å skrive kommentarer i koden når jeg brukte JetBrains IDE-er
+i sammenheng med skolearbeid. Ble lei av å se de stygge, grønne stavekontroll-linjene.
 Utvidet ordlisten med IT-tekniske terminologi for utviklere.
+
 (I know, kommentarer i arbeidslivet er best på engelsk, men tenk på de stakkars studentene #cry)
-
-
-## Hvorfor finnes denne ordlisten?
 
 Tradisjonelle norske stavekontrollordlister er først og fremst laget for vanlig norsk språk.
 
@@ -34,14 +34,10 @@ Eksempler:
 * JSON
 * GraphQL
 * databasemigrering
-* datastrukturer
-* tidskompleksitet
-* maskinlæring
-* nevrale nettverk
-* penetrasjonstest
-* refaktorering
+* osv
+...
+..
 
-Denne ordlisten bygger videre på en norsk Bokmål-ordliste og utvidet med ord og begreper som brukes i moderne IT-miljøer.
 
 ## Filer
 
@@ -59,7 +55,7 @@ Begge filene bruker UTF-8.
 
 `.dic`- og `.aff`-filene hører sammen og bør normalt ligge i samme mappe.
 
-Ofte nok at f.eks PyCharm peker mot .dic fila.
+Ofte nok at f.eks PyCharm bare peker mot .dic fila, slik som på bildet.
 
 <p align="center">
   <img src="img/pycharm-settings.png" alt="PyCharm settings" width="800">
@@ -75,8 +71,6 @@ En Hunspell-ordbok består normalt av to filer:
 * `.aff` — språk- og bøyningsregler
 
 `.aff`-fila gjør at Hunspell kan forstå mer enn bare enkeltord. Den beskriver blant annet hvordan ord kan bøyes, bygges opp og kombineres.
-
-Dette er spesielt nyttig på norsk, siden norsk bruker mye bøyning og sammensatte ord.
 
 ## IT-terminologi
 
