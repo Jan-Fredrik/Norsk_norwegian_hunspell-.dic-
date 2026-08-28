@@ -45,7 +45,7 @@ Denne ordlisten bygger videre på en norsk Bokmål-ordliste og utvidet med ord o
 
 ## Filer
 
-Repoet inneholder to filer:
+I mappa som heter; "nb_NO_IT_Hunspell", ligger det to filer:
 
 `nb_NO_IT.dic`
 
