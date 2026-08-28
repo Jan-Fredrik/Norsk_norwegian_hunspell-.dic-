@@ -59,6 +59,10 @@ Begge filene bruker UTF-8.
 
 `.dic`- og `.aff`-filene hører sammen og bør normalt ligge i samme mappe.
 
+Ofte nok at f.eks PyCharm peker mot .dic fila.
+
+![Norsk IT Hunspell](images/logo.png)
+
 ## Hva er Hunspell?
 
 Hunspell er et åpen kildekode-system for stavekontroll som brukes av mange programmer, teksteditorer og utviklingsverktøy.
