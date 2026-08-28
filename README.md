@@ -8,7 +8,7 @@ Målet var rett og slett å ha en norsk ordliste for å skrive kommentarer i kod
 i sammenheng med skolearbeid. Ble lei av å se de stygge, grønne stavekontroll-linjene.
 Utvidet ordlisten med IT-tekniske terminologi for utviklere.
 
-(I know, kommentarer i arbeidslivet er best på engelsk, men tenk på de stakkars studentene #cry)
+(I know, kode-kommentarer i arbeidslivet er best på engelsk, men tenk på de stakkars studentene #cry)
 
 Tradisjonelle norske stavekontrollordlister er først og fremst laget for vanlig norsk språk.
 
